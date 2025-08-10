@@ -1,0 +1,7 @@
+{
+    "start_game": "O'yin boshlandi! Rollar tarqatildi.",
+    "vote_instruction": "Ovoz berish: /vote @username",
+    "already_voted": "❌ Siz allaqachon ovoz bergansiz!",
+    "voted_for": "✅ Siz {player} ga ovoz berdingiz.",
+    "your_role": "Sening roling: {role}"
+}

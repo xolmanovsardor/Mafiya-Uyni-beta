@@ -1,0 +1,7 @@
+{
+    "start_game": "The game has started! Roles have been assigned.",
+    "vote_instruction": "Vote: /vote @username",
+    "already_voted": "❌ You have already voted!",
+    "voted_for": "✅ You voted for {player}.",
+    "your_role": "Your role: {role}"
+}
